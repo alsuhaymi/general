@@ -10,8 +10,8 @@ Create a Certificate Template with the following props:
 
 # Usage
 ```powershell
-.\cdp_csr.ps1 riypphwork001.kamc-rd.ngha.med
+.\cdp_csr.ps1 <server name>
 ...
 ...
-.\cdp_csr.ps1 riypphwork037.kamc-rd.ngha.med
+.\cdp_csr.ps1 <server name>
 ```
